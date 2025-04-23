@@ -2,6 +2,11 @@ package org.test;
 
 public class Test {
 	
-	// we need to write test cases
+	public static void main(String[] args) {
+		
+		System.out.println("t5");
+		System.out.println("t6");
+		System.out.println("t7");
+	}
 
 }
